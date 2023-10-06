@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\obj\Debug\Laboratorio 2 - Semana10.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\obj\Debug\Laboratorio 2 - Semana10.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\obj\Debug\Laboratorio_2___Semana10.Resources.resources
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\obj\Debug\Laboratorio 2 - Semana10.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\obj\Debug\Laboratorio 2 - Semana10.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\bin\Debug\Laboratorio 2 - Semana10.exe.config
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\bin\Debug\Laboratorio 2 - Semana10.exe
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\bin\Debug\Laboratorio 2 - Semana10.pdb
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\bin\Debug\Laboratorio 2 - Semana10.xml
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\obj\Debug\Laboratorio 2 - Semana10.exe
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\obj\Debug\Laboratorio 2 - Semana10.xml
+C:\Users\user\source\repos\Laboratorio 2 - Semana10\Laboratorio 2 - Semana10\obj\Debug\Laboratorio 2 - Semana10.pdb
